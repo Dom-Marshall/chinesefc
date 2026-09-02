@@ -5,7 +5,7 @@ import {
   computeActivePool, computeStats, todayStr
 } from '../srs'
 
-const STORAGE_KEY = 'chinese-srs-v1'
+export const STORAGE_KEY = 'chinese-srs-v1'
 
 function loadState() {
   try {

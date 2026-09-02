@@ -1,4 +1,5 @@
 import { CARDS } from '../cards'
+import DataTransfer from './DataTransfer'
 
 const QUIZ_MODES = [
   { value: 'en-pin', label: 'EN → Pinyin' },
@@ -41,6 +42,8 @@ export default function Controls({ quizMode, activeTag, onQuizMode, onTag, onRes
           ))}
         </div>
       </div>
+
+      <DataTransfer />
 
       <div className="control-group reset-row">
         <button className="btn-reset" onClick={onReset}>
