@@ -634,5 +634,6 @@ export const CARDS = [
   {"id":632,"tag":"sentences","en":"Sometimes I work 8 hours, sometimes 24 hours at the hospital","pin":"wǒ yǒu shí hou gōng zuò bā xiǎo shí，yǒu shí hou zài yī yuàn gōng zuò èr shí sì xiǎo shí","char":"我有时候工作八小时，有时候在医院工作二十四小时"},
   {"id":633,"tag":"sentences","en":"This Fri, this Sun, next Tue are all 24-hour shifts; next week I'll be exhausted","pin":"zhè zhōu wǔ，zhè zhōu tiān，xià zhōu èr dōu shì èr shí sì xiǎo shí，wǒ xià zhōu huì hěn lèi","char":"这周五、这周天、下周二都是二十四小时，我下周会很累"},
   {"id":634,"tag":"sentences","en":"When do you not have time?","pin":"nǐ shén me shí hou méi yǒu shí jiān？","char":"你什么时候没有时间？"},
-  {"id":635,"tag":"sentences","en":"I have a little time","pin":"wǒ yǒu yì diǎn shí jiān","char":"我有一点时间"}
+  {"id":635,"tag":"sentences","en":"I have a little time","pin":"wǒ yǒu yì diǎn shí jiān","char":"我有一点时间"},
+  {"id":636,"tag":"time","en":"the last / final year (no more after this; ≠ 去年 = previous year)","pin":"zuì hòu yì nián","char":"最后一年"}
 ]
