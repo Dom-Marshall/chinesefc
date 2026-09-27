@@ -710,5 +710,14 @@ export const CARDS = [
   {"id":708,"tag":"sentences","en":"7 or 8 hours","pin":"qī ge xiǎo shí huò zhě bā ge xiǎo shí","char":"七个小时或者八个小时"},
   {"id":709,"tag":"sentences","en":"Tomorrow there's a running race, 500+ men","pin":"míng tiān yǒu pǎo bù bǐ sài，wǔ bǎi duō ge nán rén","char":"明天有跑步比赛，五百多个男人"},
   {"id":710,"tag":"sentences","en":"Can you tell me about your running?","pin":"kě yǐ gěi wǒ shuō shuō nǐ pǎo bù de qíng kuàng ma？","char":"可以给我说说你跑步的情况吗？"},
-  {"id":711,"tag":"sentences","en":"I'm curious","pin":"wǒ hào qí","char":"我好奇"}
+  {"id":711,"tag":"sentences","en":"I'm curious","pin":"wǒ hào qí","char":"我好奇"},
+  {"id":712,"tag":"phrases","en":"hello","pin":"nǐ hǎo","char":"你好"},
+  {"id":713,"tag":"phrases","en":"How are you?","pin":"nǐ hǎo ma？","char":"你好吗？"},
+  {"id":714,"tag":"phrases","en":"How are you? / How's it going? (informal)","pin":"nǐ zěn me yàng？","char":"你怎么样？"},
+  {"id":715,"tag":"phrases","en":"I'm very well, thank you","pin":"wǒ hěn hǎo，xiè xie","char":"我很好，谢谢"},
+  {"id":716,"tag":"phrases","en":"pretty good / not bad (response)","pin":"hái bú cuò","char":"还不错"},
+  {"id":717,"tag":"phrases","en":"OK / alright (response)","pin":"hái kě yǐ","char":"还可以"},
+  {"id":718,"tag":"phrases","en":"so-so","pin":"mǎ mǎ hū hū","char":"马马虎虎"},
+  {"id":719,"tag":"phrases","en":"not so good","pin":"bú tài hǎo","char":"不太好"},
+  {"id":720,"tag":"phrases","en":"I'm well too","pin":"wǒ yě hěn hǎo","char":"我也很好"}
 ]
